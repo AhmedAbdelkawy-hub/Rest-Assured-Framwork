@@ -1,7 +1,7 @@
 # Rest-Assured-Framwork
   Rest-Assured-Framwork using Java, Maven , TestNG And POM 
   
-  #Tech stach
+  # Tech stach
   - Java
   - Maven
   - TestNG
